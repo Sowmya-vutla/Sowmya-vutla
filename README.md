@@ -1,245 +1,93 @@
-# Hi there 👋 I'm Deepthi Punjadi
+# 👋 About Me
 
-### AI/ML Engineer | Machine Learning | Generative AI | NLP | LLM Applications
+🎓 Master of Science in Information Technology and Management from Lindsey Wilson University
 
-I'm an AI/ML Engineer with **3+ years of experience** designing and developing machine learning, natural language processing, and Generative AI solutions. I enjoy building intelligent applications that solve real-world problems using predictive analytics, recommendation systems, Retrieval-Augmented Generation (RAG), and Large Language Models.
+🤖 AI/ML Engineer with **4+ years** of experience developing Machine Learning, Deep Learning, NLP, and Generative AI solutions across enterprise environments
 
-My work focuses on transforming business requirements into production-ready AI solutions by combining machine learning, modern NLP, scalable APIs, and cloud-native deployment practices.
+🧠 Experienced in building **LLM applications, Retrieval-Augmented Generation (RAG) systems, AI Agents, Semantic Search platforms, and Predictive Analytics solutions**
 
----
+💻 Skilled in **Python, SQL, PySpark, Scikit-learn, TensorFlow, PyTorch, OpenAI, LangChain, LangGraph, LlamaIndex, AWS, Pinecone, and FAISS**
 
-## 👩‍💻 About Me
+📊 Passionate about developing intelligent AI applications using Machine Learning, NLP, Vector Databases, and Cloud AI technologies
 
-* 🤖 AI/ML Engineer with expertise in Machine Learning, Deep Learning, NLP, and Generative AI
-* 🧠 Experienced in building RAG applications using LangChain, LlamaIndex, OpenAI, and Azure OpenAI
-* 📊 Strong background in predictive modeling, recommendation systems, and text analytics
-* 🔍 Passionate about transformer models, semantic search, embeddings, and prompt engineering
-* 🚀 Skilled in deploying AI models using FastAPI, Docker, MLflow, and Azure Machine Learning
-* 📈 Experienced in experiment tracking, model evaluation, and MLOps workflows
-* ☁️ Comfortable working with cloud platforms, scalable data pipelines, and modern AI infrastructure
-* 🤝 Enjoy collaborating with product, engineering, and data science teams to deliver impactful AI solutions
+🚀 Currently building scalable enterprise AI solutions using **Generative AI, LLMs, Prompt Engineering, and AWS AI Services**
 
----
+📚 Always learning and exploring the latest advancements in **Agentic AI, Advanced RAG Architectures, Multi-Agent Systems, MLOps, and Explainable AI**
 
-# 🛠 Tech Stack
+🤝 Open to collaborating on **AI/ML, Generative AI, LLM, NLP, RAG, Semantic Search, and Intelligent Automation projects**
 
-### Programming & Data Processing
+# 🌐 Socials
 
-* Python
-* SQL
-* NumPy
-* Pandas
-* PySpark
-* Feature Engineering
-* Data Cleaning
-* Exploratory Data Analysis
-* Statistical Analysis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sowmya.vutla.tech@gmail.com)
 
-### Machine Learning
+# 💻 Tech Stack
 
-* Scikit-learn
-* XGBoost
-* Supervised Learning
-* Unsupervised Learning
-* Classification
-* Regression
-* Clustering
-* Predictive Modeling
-* Recommendation Systems
-* Hyperparameter Tuning
-* Cross Validation
-* Model Evaluation
-* ROC-AUC
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Deep Learning & NLP
-
-* TensorFlow
-* Keras
-* Hugging Face Transformers
-* BERT
-* GPT Models
-* Transformer Models
-* Text Classification
-* Named Entity Recognition
-* Semantic Search
-* Embeddings
-* Tokenization
+### Machine Learning & AI
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
 
 ### Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E57E0?style=for-the-badge)
 
-* Large Language Models (LLMs)
-* Prompt Engineering
-* LangChain
-* LlamaIndex
-* Retrieval-Augmented Generation (RAG)
-* OpenAI API
-* Azure OpenAI
-* FAISS
-* Pinecone
-* LLM Evaluation
-* LoRA
-* PEFT
-
-### MLOps & Deployment
-
-* FastAPI
-* REST APIs
-* Docker
-* MLflow
-* CI/CD
-* Model Monitoring
-* Drift Detection
-* Git
-* GitHub
-* Model Versioning
-* Model Serving
+### Vector Databases
+![Pinecone](https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2?style=for-the-badge)
 
 ### Cloud & Data Engineering
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Amazon SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-* Azure Machine Learning
-* Apache Spark
-* Airflow
-* Snowflake
-* PostgreSQL
-* ETL Pipelines
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+# 📊 GitHub Stats
 
-# 💼 Professional Experience
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sowmya-vutla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-## AI/ML Engineer Intern
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Sowmya-vutla&theme=tokyonight&hide_border=true" />
+</p>
 
-**PM Accelerator** *(Remote)*
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmya-vutla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-* Built Generative AI workflows using LangChain, LlamaIndex, FastAPI, OpenAI API, and Azure OpenAI.
-* Developed Retrieval-Augmented Generation (RAG) pipelines using FAISS and Pinecone.
-* Improved prompt quality through systematic LLM evaluation and prompt optimization.
-* Created AI-ready datasets using feature engineering and exploratory data analysis.
-* Integrated LLM applications with REST APIs for production-ready AI services.
-* Supported model monitoring, documentation, and deployment best practices.
+# 🏆 GitHub Trophies
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sowmya-vutla&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-## Machine Learning Engineer
+# 📈 Contribution Graph
 
-**Cybage Software Pvt. Ltd.**
-
-* Developed customer behavior prediction models using Scikit-learn and XGBoost.
-* Built classification and regression pipelines for product analytics.
-* Designed BERT-based NLP models for intelligent text classification.
-* Processed large-scale datasets using Apache Spark and PySpark.
-* Optimized ML models through hyperparameter tuning and performance evaluation.
-* Deployed production inference APIs using FastAPI and Docker.
-* Managed experiment tracking using MLflow and Azure Machine Learning.
-* Built scalable data pipelines with SQL, PostgreSQL, Snowflake, and Airflow.
-
----
-
-# 🚀 Featured Projects
-
-## ✈️ Personalized Travel Recommendation Engine
-
-AI-powered recommendation platform that suggests personalized destinations, hotels, and travel itineraries using machine learning and semantic search.
-
-**Highlights**
-
-* Recommendation System
-* Embedding-based Search
-* LangChain
-* LlamaIndex
-* FAISS
-* Pinecone
-* FastAPI
-* OpenAI API
-* Hugging Face Transformers
-
----
-
-## 🍽 Restaurant Demand Forecasting & Menu Recommendation System
-
-Machine learning application that forecasts restaurant demand and generates intelligent menu recommendations using historical order data.
-
-**Highlights**
-
-* Demand Forecasting
-* XGBoost
-* TensorFlow
-* Feature Engineering
-* Forecast Optimization
-* FastAPI
-* PostgreSQL
-* REST APIs
-
----
-
-## 📚 Enterprise RAG Knowledge Assistant
-
-Enterprise-grade Retrieval-Augmented Generation assistant for answering questions from organizational knowledge bases.
-
-**Highlights**
-
-* LangChain
-* LlamaIndex
-* Azure OpenAI
-* Semantic Search
-* FAISS
-* Pinecone
-* Prompt Engineering
-* Docker
-* MLflow
-* FastAPI
-
----
-
-# 📜 Certifications
-
-* IBM AI Engineering Professional Certificate
-* IBM Generative AI Engineering Professional Certificate
-* Machine Learning Specialization
-* Deep Learning Specialization
-* Generative AI with Large Language Models
-* Prompt Engineering Skills for Developers
-
----
-
-# 🎯 Areas of Interest
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Large Language Models
-* Natural Language Processing
-* Recommendation Systems
-* Retrieval-Augmented Generation
-* AI Search
-* Semantic Search
-* Model Deployment
-* MLOps
-* Responsible AI
-* AI Product Development
-
----
-
-# 🌱 Currently Learning
-
-* Advanced Agentic AI Systems
-* Multi-Agent Workflows
-* AI Agents
-* Advanced RAG Architectures
-* LLM Fine-Tuning
-* Model Optimization
-* AI Evaluation Frameworks
-* Production MLOps
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative AI, Machine Learning, NLP, and Generative AI projects.
-
-If you're working on cutting-edge AI applications or have an exciting opportunity, I'd love to connect.
-
----
-
-### ⭐ "Building intelligent systems that transform data into meaningful decisions through Machine Learning and Generative AI."
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowmya-vutla&theme=tokyo-night&hide_border=true"/>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sowmya-vutla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
