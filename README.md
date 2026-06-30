@@ -18,8 +18,7 @@
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://applywizz-sowmyachowdary-30171.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sowmya.vutla.tech@gmail.com)
 
 # 💻 Tech Stack
@@ -77,11 +76,6 @@
   <img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sowmya-vutla&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sowmya-vutla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 # 📈 Contribution Graph
 
